@@ -1,0 +1,9 @@
+calculate area and the circumference of a circle
+
+1. start
+2. input the number of radius
+3. input phi number equal to 22/7
+4. calculate area phi x radius x radius
+5. calculate circumference 2 x phi x radius
+6. show result circumference
+7. end

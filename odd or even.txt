@@ -1,0 +1,9 @@
+is odd or even?
+
+1. start
+2. make variable x
+3. input number to variable x
+4. check odd or even
+5. if x mod 2 equal 0, then x is even
+6. else, x is odd
+7. end

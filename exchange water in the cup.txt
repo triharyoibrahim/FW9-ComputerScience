@@ -1,0 +1,9 @@
+Exchange water in the cup
+
+1. start
+2. prepare two glasses of water that want to exchange
+3. prepare one empty glass. (We named it as third glass)
+4. pour water in the first glass into third glass
+5. pour water in the second glass into first glass
+6. pour water in the third glass into second glass
+7. end

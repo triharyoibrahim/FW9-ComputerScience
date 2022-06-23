@@ -1,0 +1,10 @@
+Boil water:
+
+1. start
+2. prepare water, water pot, stove
+3. put water pot on stove
+4. pour water into water pot
+5. turn on the stove
+6. wait a minute until water boiled
+7. turn off the stove
+8. end

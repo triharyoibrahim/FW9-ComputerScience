@@ -1,0 +1,9 @@
+Which is bigger?
+
+1. start
+2. make variable x and y
+3. input number to variable x and y
+4. compare variable x and y
+5. if x more bigger than y, then x bigger
+6. else, y bigger
+7. end
